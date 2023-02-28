@@ -1,4 +1,3 @@
-# Hello
 
 ![my great header](SheldonPierce.png)
 
