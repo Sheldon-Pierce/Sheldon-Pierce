@@ -64,7 +64,7 @@ These days you’ll find me:
 ---
 
 ### 🔥 Activity Graph
-[![Sheldon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheldonpierce&theme=react-dark)](https://github.com/sheldon-pierce)
+[![Sheldon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheldon-pierce&theme=react-dark)](https://github.com/sheldon-pierce)
 
 ---
 
