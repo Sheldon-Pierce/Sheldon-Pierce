@@ -57,13 +57,13 @@ These days you’ll find me:
 ---
 
 ### 📊 GitHub Stats
-![Sheldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldonpierce&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheldonpierce&layout=compact&theme=tokyonight)
+![Sheldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldon-pierce&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-pierce&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Activity Graph
-[![Sheldon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheldonpierce&theme=react-dark)](https://github.com/sheldonpierce)
+[![Sheldon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheldonpierce&theme=react-dark)](https://github.com/sheldon-pierce)
 
 ---
 
@@ -72,7 +72,7 @@ These days you’ll find me:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sheldonpierce&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=sheldon-pierce&color=brightgreen)
 
 ---
 
