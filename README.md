@@ -1,4 +1,4 @@
-![my great header](SheldonPierce.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=200&section=header&text=Sheldon%20Pierce&fontSize=50&fontColor=00f7ff&animation=fadeIn&desc=Developer%20•%20Engineer%20•%20Geologist%20•%20Drone%20Pilot&descSize=20&descAlignY=75)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0EF7F7&width=435&lines=Hey!+I'm+Sheldon!;Developer+%2F+Engineer+%2F+Drone+Pilot;I+build+scalable+things+that+work.)](https://git.io/typing-svg)
 
