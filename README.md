@@ -58,7 +58,7 @@ These days you’ll find me:
 
 ### 📊 GitHub Stats
 ![Sheldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheldon-pierce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sheldonpierce&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sheldon-pierce&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon-pierce&layout=compact&theme=tokyonight)
 
 ---
